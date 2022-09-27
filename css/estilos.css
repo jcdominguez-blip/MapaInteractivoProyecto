@@ -1,0 +1,27 @@
+*{
+
+    
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    body{
+        background: #51545d;
+        font-family: sans-serif;
+    }
+.bg-mio {
+
+
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff; 
+
+
+}
+
+.regular{
+
+font-weight: lighter;
+color: #fff;
+
+}
